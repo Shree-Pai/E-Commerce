@@ -1,7 +1,7 @@
 
 # E-Commerce Application
 
-**GitHub Repository:** ` https://github.com/Vaishakharekere/E-commerce.git`
+**GitHub Repository:** ` (https://github.com/Shree-Pai/E-Commerce)`
 
 
 ## Description
