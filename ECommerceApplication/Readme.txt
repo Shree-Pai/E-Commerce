@@ -1,7 +1,7 @@
 
 E-Commerce Application
 
-GitHub Repository:  https://github.com/Vaishakharekere/E-commerce.git
+GitHub Repository:  https://github.com/Shree-Pai/E-Commerce
 
 Description
 A Spring Boot–based E-Commerce system that enables product management, user management, order handling, and payment integration. It also includes discount features, review systems, transaction logging, and robust error handling. The system is tested with JUnit (unit & integration tests) for reliability.
