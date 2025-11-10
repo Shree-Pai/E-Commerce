@@ -166,7 +166,7 @@ Creates a new user account in the system.
 
   - **Method:** `POST`
 
-  - **Endpoint:** `/api/auth/register`
+  - **Endpoint:** `/api/users/register`
 
   - **Request Body:**
 
@@ -201,7 +201,7 @@ Authenticates a regular user and returns a JWT token with `ROLE_USER`. This toke
 
   - **Method:** `POST`
 
-  - **Endpoint:** `/api/auth/login`
+  - **Endpoint:** `/api/users/login`
 
   - **Request Body:**
 
@@ -228,7 +228,7 @@ Authenticates an administrator and returns a JWT token with `ROLE_ADMIN`. This t
 
   - **Method:** `POST`
 
-  - **Endpoint:** `/api/auth/login`
+  - **Endpoint:** `/api/users/login`
 
   - **Request Body:**
 
